@@ -3,7 +3,6 @@
 
 import os
 import sys
-import django  # type: ignore
 
 def main():
     """Run administrative tasks."""
